@@ -10,7 +10,6 @@ The script will pad smaller images with transparency to match the size of the la
 """
 
 import os
-import sys
 import argparse
 import PIL.Image
 
